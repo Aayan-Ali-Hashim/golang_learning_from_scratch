@@ -15,7 +15,6 @@ func main() {
 	fmt.Println(a)
 	fmt.Println(c)
 	fmt.Println(d)
-	
 }
 
 
